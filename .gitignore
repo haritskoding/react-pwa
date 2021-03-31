@@ -4,7 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
-/luxspace-demo-master/luxspace-demo-master
+/luxspace-demo-master.zip
+/luxspace-demo-master
+
 # testing
 /coverage
 
