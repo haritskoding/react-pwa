@@ -3,7 +3,7 @@ const colors = require("tailwindcss/colors");
 module.exports = {
   purge: {
     // enabled: true,
-    content: ["public/**/*.html", "src/**/*.js","src/**/*.jsx"],
+    content: ["public/**/*.html", "src/**/*.js", "src/**/*.jsx"],
   },
   presets: [],
   darkMode: false, // or 'media' or 'class'
@@ -278,20 +278,7 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        "ui-sans-serif",
-        "system-ui",
-        "-apple-system",
-        "BlinkMacSystemFont",
-        '"Segoe UI"',
-        "Roboto",
-        '"Helvetica Neue"',
-        "Arial",
-        '"Noto Sans"',
-        "sans-serif",
-        '"Apple Color Emoji"',
-        '"Segoe UI Emoji"',
-        '"Segoe UI Symbol"',
-        '"Noto Color Emoji"',
+        '"Josefin Sans"'
       ],
       serif: [
         "ui-serif",
